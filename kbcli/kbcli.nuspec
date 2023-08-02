@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>kbcli</id>
+    <version>0.5.3</version>
+    <title>KubeBlocks Command Line Interface (CLI)</title>
+    <authors>ApeCloud</authors>
+    <owners>ApeCloud</owners>
+    <projectUrl>https://kubeblocks.io/</projectUrl>
+    <iconUrl>https://avatars.githubusercontent.com/u/110025631</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>## A Command Line Interface for KubeBlocks</description>
+    <summary>A Command Line Interface for KubeBlocks</summary>
+    <releaseNotes>https://github.com/apecloud/kbcli/releases/tag/v0.5.3</releaseNotes>
+    <copyright>Copyright (C) 2022-2023 ApeCloud Co., Ltd</copyright>
+    <tags>ApeCloud kubeblocks Kubernetes</tags>
+    <projectSourceUrl>https://github.com/apecloud/kbcli</projectSourceUrl>
+    <docsUrl>https://kubeblocks.io/</docsUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

@@ -1,0 +1,20 @@
+VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+1. Download the following:
+
+  x64: https://github.com/apecloud/kbcli/releases/download/v0.5.3/kbcli.exe
+  
+
+2. Get the checksum using one of the following methods:
+  - Using powershell function 'Get-FileHash'
+  - Use chocolatey utility 'checksum.exe'
+
+3. The checksums should match the following:
+ checksum type: sha256
+ checksum64: 893eb87eb7c7872f24d278697ec6a71037a7ec001cb3fd5f46f9b734e7f6ad44
+
+Using AU:
+
+   Get-RemoteChecksum https://github.com/apecloud/kbcli/releases/download/v0.5.3/kbcli.exe
