@@ -1,6 +1,6 @@
 import-module au
 
-$version = "0.5.3"#$env:VERSION # v0.5.1
+$version = $env:VERSION  # v0.5.1
 $domain = 'https://github.com'
 
 
