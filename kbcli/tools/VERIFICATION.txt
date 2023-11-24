@@ -4,7 +4,7 @@ in verifying that this package's contents are trustworthy.
 
 1. Download the following:
 
-  x64: https://github.com/apecloud/kbcli/releases/download/v0.7.0/kbcli.exe
+  x64: https://github.com/apecloud/kbcli/releases/download/v0.7.1/kbcli.exe
   
 
 2. Get the checksum using one of the following methods:
@@ -13,8 +13,8 @@ in verifying that this package's contents are trustworthy.
 
 3. The checksums should match the following:
  checksum type: sha256
- checksum64: b7b4760410f5e8eefc2a0e0d901f728c04cdaec378219a0e6bce4c42185bee0d
+ checksum64: 9c552a873c752ee8090a7920e866f710699e30d48ce295458d5b7848aa054f4a
 
 Using AU:
 
-   Get-RemoteChecksum https://github.com/apecloud/kbcli/releases/download/v0.7.0/kbcli.exe
+   Get-RemoteChecksum https://github.com/apecloud/kbcli/releases/download/v0.7.1/kbcli.exe
