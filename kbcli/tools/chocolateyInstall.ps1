@@ -5,9 +5,9 @@ $packageArgs = @{
   fileType       = 'exe'
   softwareName   = 'kbcli'
 
-  checksum       = 'd622e1b4d3dc874391e58741a6fec2c571f186fc1b8934b10f08c900d916e0f8'
+  checksum       = '6fefdca18dccae24b79ce24bdfc3d22d3ad1d5e8f33e1d56566e00a5a641a5f6'
   checksumType   = 'sha256'
-  url            = 'https://github.com/apecloud/kbcli/releases/download/v0.8.1/kbcli.exe'
+  url            = 'https://github.com/apecloud/kbcli/releases/download/v0.8.2/kbcli.exe'
 
   silentArgs     = ''
   validExitCodes = @(0)
